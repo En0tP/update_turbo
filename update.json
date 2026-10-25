@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "versionCode": 1,
+  "versionName": "PLUS 2.0",
+  "title": "Вышла новая версия PLUS",
+  "url": "https://t.me/TURBOromMiui",
+  "changes": [
+    "Первое изменение",
+    "Второе изменение",
+    "Третье изменение"
+  ]
+}
